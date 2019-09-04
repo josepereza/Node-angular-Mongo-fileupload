@@ -34,4 +34,3 @@ $ mongod
 ```
 $ nodemon
 ```
-# fileupload-progressbar-angular
