@@ -1,3 +1,4 @@
+![imagen](uploadAngular.png)
 # FileuploadProgressbarAngular
 
 Angular 8 File Upload with Progress Bar Tutorial - Learn to create progress bar in Angular using HttpEvent and HttpEventType APIs.
